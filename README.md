@@ -43,7 +43,7 @@ This above should complete the inital configuration. Now run the below commands 
 ./setperm.sh
 ```
 ---
-Add the below line as the TOP of /etc/pam.d/sshd (assuming you already have sshd configured on your system)
+Add the below line at the TOP of /etc/pam.d/sshd (assuming you already have sshd configured on your system)
 
 **Adding the below line to /etc/pam.d/sshd will not affect the login capabilities of other normal users including ROOT using their passwords**
 ```
