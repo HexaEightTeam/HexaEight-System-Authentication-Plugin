@@ -2,6 +2,8 @@
 
 Implement HexaEight Authentication in Linux, Raspberry Pi, Windows, Mac and even custom Operating Systems
 
+## For Linux / Raspberry Pi
+
 Getting Started:
 
 HexaEight Systen Authentication Plugin uses PAM authentication for authenticating email users in all flavour of Linux (x64 version) and Raspberry pi devices (arm_64 version).  The authentication plugins for Windows and Mac will be updated once its ready.
@@ -90,5 +92,8 @@ User Verified Successfully
 [root@localhost bin]#
 ```
 
+## For Windows Operating System - Coming Soon
+
+## For Mac Operating System - Coming Soon
 
 
